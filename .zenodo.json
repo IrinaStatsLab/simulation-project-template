@@ -1,0 +1,21 @@
+{
+  "title": "Simulation Project Template",
+  "upload_type": "software",
+  "description": "<p>A worked simulation study in R, structured as a starting point for new projects. It compares ridge regression, lasso, and principal component regression under a linear model with correlated covariates.</p><p>The template demonstrates modular organization (separate files for data generation, method wrappers, and performance metrics), uniform input/output interfaces across methods, reproducible parallel replication with <code>doRNG</code>, saved raw per-replication output, and separation of computation from visualization.</p><p>Companion to <em>Designing and Reporting Simulation Studies</em>, part of the Structured Research Experience teaching materials.</p>",
+  "creators": [
+    {
+      "name": "Gaynanova, Irina",
+      "affiliation": "Department of Biostatistics, University of Michigan",
+      "orcid": "0000-0002-4116-0268"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "simulation study",
+    "statistics education",
+    "reproducible research",
+    "project template",
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this template, please cite it as below."
+title: "Simulation Project Template"
+abstract: >-
+  A worked simulation study in R, structured as a starting point for new
+  projects. Compares ridge regression, lasso, and principal component regression
+  under a linear model with correlated covariates, demonstrating modular
+  organization, uniform method interfaces, reproducible parallel replication with
+  doRNG, saved raw output, and separation of computation from visualization.
+type: software
+authors:
+  - family-names: Gaynanova
+    given-names: Irina
+    affiliation: "Department of Biostatistics, University of Michigan"
+    orcid: "https://orcid.org/0000-0002-4116-0268"
+license: CC-BY-4.0
+repository-code: "https://github.com/IrinaStatsLab/simulation-project-template"
+keywords:
+  - simulation study
+  - statistics education
+  - reproducible research
+  - project template
+  - R
