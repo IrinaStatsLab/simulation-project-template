@@ -13,6 +13,10 @@ authors:
     given-names: Irina
     affiliation: "Department of Biostatistics, University of Michigan"
     orcid: "https://orcid.org/0000-0002-4116-0268"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23022141
+    description: Zenodo archive
 license: CC-BY-4.0
 repository-code: "https://github.com/IrinaStatsLab/simulation-project-template"
 keywords:

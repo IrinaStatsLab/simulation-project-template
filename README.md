@@ -1,4 +1,5 @@
 # Simulation project template
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23022141.svg)](https://doi.org/10.5281/zenodo.23022141)
 
 A worked simulation study, structured as a starting point for your own. It
 compares ridge regression, lasso, and principal component regression under a
